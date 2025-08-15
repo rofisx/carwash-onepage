@@ -4,7 +4,7 @@ A fully responsive one-page website for a car wash business, built using **only 
 No frameworks, no build tools — just open the `index.html` file and it's ready to use.
 
 ## 🌐 Live Demo
-[View Demo](https://rofisx.github.io/carwash-onepage/) <!-- Replace with your actual GitHub Pages URL -->
+<a href="https://rofisx.github.io/carwash-onepage/" target="_blank">View Demo 🚀</a>
 
 ## 📋 Sections
 - **Home** — Hero section with catchy slogan and image.
